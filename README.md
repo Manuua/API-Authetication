@@ -1,2 +1,2 @@
 # API-Authetication
-API para validar login do projeto Burguer Queen
+API desenvolvida para validar login do projeto Burguer Queen
